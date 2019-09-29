@@ -1,3 +1,8 @@
+/*
+    Created by Jay Park
+    Allows the box to switch to random colors when clicked
+*/
+
 
 document.getElementById('root').addEventListener('click', changeColor);
 
